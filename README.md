@@ -36,7 +36,7 @@ The main objectives of the project were to:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Backend Development
 - FastAPI
@@ -287,6 +287,6 @@ GitHub: :contentReference[oaicite:0]{index=0}
 
 ---
 
-# 📜 License
+#  License
 
 This project was developed for educational, portfolio, and research purposes.
